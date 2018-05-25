@@ -163,6 +163,7 @@ public class Main extends Application {
 								// undo(i,j);
 
 							}
+							//ffasdasdReposito
 							// "O""X"を入れる条件 (Conditions of inputting "X" and "O")
 							if (e.getSource() == btn[i][j] && btn[i][j].getText() != "X"
 									&& btn[i][j].getText() != "O") {
